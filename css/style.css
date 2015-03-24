@@ -1,0 +1,77 @@
+.header {
+	height: 100px;
+	max-height: 100px;
+	background-color: #ed1484;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#frm1 {
+	margin-top: auto;
+	margin-bottom: auto;
+	background-color: #c7106e;
+}
+
+#left4 {
+	background-color: red;
+	margin: 0px;
+	padding: 0px;
+}
+
+#right4 {
+	background-color: green;
+}
+
+.left2 {
+	background-color: yellow;
+}
+
+.right2 {
+	background-color: green;
+}
+
+.middle10{
+	background-color: blue;
+
+}
+
+.sampler1{
+	background-color: red;
+}
+
+.sampler2{
+	background-color: green;
+}
+
+#exampleColors {
+	background-color: yellow;
+}
+
+#defaultCanvas {
+	/* width: 90%; */
+	display:inline;
+	/* margin-left: auto;
+	margin-right: auto; */
+	padding: 0px;
+}
+
+ #parentCanvas {
+ 	 /* background-color: purple; */
+     /* width: 83.33333333%; */
+     width: 100%;
+
+     height: 500px;
+    /*width: 100px; */
+  }
+
+#sampleContainer {
+	background-color: #382433;
+
+}
+
+
+
+
+
+
+
