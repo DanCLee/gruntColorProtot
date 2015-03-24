@@ -1,0 +1,25 @@
+{
+  "name": "gruntColorProtot",
+  "version": "1.0.0",
+  "description": "Using a grunt build system to help build the color prototyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanCLee/gruntColorProtot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanCLee/gruntColorProtot/issues"
+  },
+  "homepage": "https://github.com/DanCLee/gruntColorProtot",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.5.1"
+  }
+}
